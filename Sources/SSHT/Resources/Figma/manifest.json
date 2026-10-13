@@ -1,0 +1,110 @@
+[
+  {
+    "name": "square",
+    "id": "2:1043",
+    "width": 14,
+    "height": 14
+  },
+  {
+    "name": "plus",
+    "id": "2:1046",
+    "width": 14,
+    "height": 14
+  },
+  {
+    "name": "settings",
+    "id": "2:1049",
+    "width": 18,
+    "height": 18
+  },
+  {
+    "name": "search",
+    "id": "2:1052",
+    "width": 13,
+    "height": 13
+  },
+  {
+    "name": "arrow-active",
+    "id": "2:1055",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "arrow",
+    "id": "2:1058",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "status-active",
+    "id": "2:900",
+    "width": 6,
+    "height": 6
+  },
+  {
+    "name": "status-idle",
+    "id": "2:934",
+    "width": 6,
+    "height": 6
+  },
+  {
+    "name": "info",
+    "id": "2:1070",
+    "width": 13,
+    "height": 13
+  },
+  {
+    "name": "laptop",
+    "id": "2:1073",
+    "width": 14,
+    "height": 14
+  },
+  {
+    "name": "server",
+    "id": "2:1076",
+    "width": 14,
+    "height": 14
+  },
+  {
+    "name": "lock",
+    "id": "2:1079",
+    "width": 13,
+    "height": 13
+  },
+  {
+    "name": "trash",
+    "id": "2:1082",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "terminal",
+    "id": "2:1085",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "name": "close",
+    "id": "2:1748",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "name": "laptop-modal",
+    "id": "2:1700",
+    "width": 14.999999046325684,
+    "height": 15
+  },
+  {
+    "name": "server-modal",
+    "id": "2:1715",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "name": "chevrons",
+    "id": "2:2016",
+    "width": 12,
+    "height": 12
+  }
+]
